@@ -1,14 +1,29 @@
-# SpringRestService
+# README #
 
-SIMPLE REST API IMPLEMENTATION
+This README would normally document whatever steps are necessary to get your application up and running.
 
-The rest API functions:
-    - submit a new user
-    - retrieve a list of users
-    - allow a user to login/logout
-    
-Web client
-    - perform the above functions
-    - user sessions monitored
-    
-Review word document for outline of testing API.
+### What is this repository for? ###
+
+* Quick summary
+* Version
+* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+
+### How do I get set up? ###
+
+* Summary of set up
+* Configuration
+* Dependencies
+* Database configuration
+* How to run tests
+* Deployment instructions
+
+### Contribution guidelines ###
+
+* Writing tests
+* Code review
+* Other guidelines
+
+### Who do I talk to? ###
+
+* Repo owner or admin
+* Other community or team contact
