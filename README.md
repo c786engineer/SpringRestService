@@ -1,29 +1,19 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+REST API Service to allow users to be added, retrieve list of users, login/logout a user and manage sessions.
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* REST API Service
+* Version 1.2
+* Web client service to access REST service
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Use of Netbeans IDE
+* Spring tool suite optional but Get methods to be defined for entities
+* Maven Dependencies
+* H2 SQL in memory database
+* Use attached test file imported into Postman
+*
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
