@@ -9,10 +9,7 @@ import java.math.BigInteger;
 import java.security.SecureRandom;
 import org.springframework.stereotype.Component;
 
-/**
- *
- * @author jalal-sordo
- */
+
 @Component
 public final class SessionIdentifierGenerator {
 

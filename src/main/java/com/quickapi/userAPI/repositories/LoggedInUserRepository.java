@@ -10,10 +10,6 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.query.Param;
 
-/**
- *
- * @author jalal-sordo
- */
 public interface LoggedInUserRepository extends CrudRepository<LoggedInUser, Long> {
 
     

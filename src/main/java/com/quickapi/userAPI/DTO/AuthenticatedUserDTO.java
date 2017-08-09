@@ -7,10 +7,7 @@ package com.quickapi.userAPI.DTO;
 
 import lombok.Data;
 
-/**
- *
- * @author jalal-sordo
- */
+
 @Data
 public class AuthenticatedUserDTO {
 

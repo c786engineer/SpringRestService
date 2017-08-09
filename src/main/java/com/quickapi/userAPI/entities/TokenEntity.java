@@ -17,10 +17,7 @@ import javax.persistence.Id;
 import javax.persistence.OneToOne;
 import lombok.Data;
 
-/**
- *
- * @author jalal-sordo
- */
+
 @Data
 @Entity(name = "tokens")
 public class TokenEntity {

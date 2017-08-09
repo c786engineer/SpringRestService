@@ -16,10 +16,7 @@ import javax.persistence.OneToOne;
 import javax.persistence.Temporal;
 import lombok.Data;
 
-/**
- *
- * @author jalal-sordo
- */
+
 @Data
 @Entity(name = "loggedInUsers")
 public class LoggedInUser {
